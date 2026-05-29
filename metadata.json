@@ -1,0 +1,6 @@
+{
+  "name": "FamM",
+  "description": "A Fampay clone for minors offering simulated UPI payments, active physical card control, rapid Aadhar KYC, parent-managed spending limits, and an expense tracking dashboard with budget analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
